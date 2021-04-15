@@ -1,0 +1,16 @@
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.csprojAssemblyReference.cache
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\helloworld.exe
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\helloworld.deps.json
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.json
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\helloworld.dll
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\ref\helloworld.dll
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\bin\Debug\net5.0\helloworld.pdb
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.dll
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\ref\helloworld.dll
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.pdb
+C:\1\11.programing\C#\4_2021\studyCsharp\4_15\helloworld\obj\Debug\net5.0\helloworld.genruntimeconfig.cache
